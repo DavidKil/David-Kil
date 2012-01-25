@@ -1,0 +1,33 @@
+C:\Documents and Settings\08232352\Local Settings\Application Data\Temporary Projects\guilab7\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\08232352\Local Settings\Application Data\Temporary Projects\guilab7\obj\Release\guilab7.Form1.resources
+C:\Documents and Settings\08232352\Local Settings\Application Data\Temporary Projects\guilab7\obj\Release\guilab7.Resources.resources
+C:\Documents and Settings\08232352\Local Settings\Application Data\Temporary Projects\guilab7\obj\Release\guilab7.vbproj.GenerateResource.Cache
+C:\Documents and Settings\08232352\Local Settings\Application Data\Temporary Projects\guilab7\bin\Release\guilab7.exe
+C:\Documents and Settings\08232352\Local Settings\Application Data\Temporary Projects\guilab7\bin\Release\guilab7.pdb
+C:\Documents and Settings\08232352\Local Settings\Application Data\Temporary Projects\guilab7\bin\Release\guilab7.xml
+C:\Documents and Settings\08232352\Local Settings\Application Data\Temporary Projects\guilab7\obj\Release\guilab7.exe
+C:\Documents and Settings\08232352\Local Settings\Application Data\Temporary Projects\guilab7\obj\Release\guilab7.xml
+C:\Documents and Settings\08232352\Local Settings\Application Data\Temporary Projects\guilab7\obj\Release\guilab7.pdb
+F:\My Documents\Visual Studio 2008\Projects\guilab7\guilab7\obj\Release\guilab7.exe
+F:\My Documents\Visual Studio 2008\Projects\guilab7\guilab7\obj\Release\guilab7.xml
+F:\My Documents\Visual Studio 2008\Projects\guilab7\guilab7\obj\Release\guilab7.pdb
+F:\My Documents\Visual Studio 2008\Projects\guilab7\guilab7\bin\Release\guilab7.exe
+F:\My Documents\Visual Studio 2008\Projects\guilab7\guilab7\bin\Release\guilab7.pdb
+F:\My Documents\Visual Studio 2008\Projects\guilab7\guilab7\bin\Release\guilab7.xml
+F:\My Documents\Visual Studio 2008\Projects\guilab7\guilab7\obj\Release\ResolveAssemblyReference.cache
+F:\My Documents\Visual Studio 2008\Projects\guilab7\guilab7\obj\Release\guilab7.Form1.resources
+F:\My Documents\Visual Studio 2008\Projects\guilab7\guilab7\obj\Release\guilab7.Resources.resources
+F:\My Documents\Visual Studio 2008\Projects\guilab7\guilab7\obj\Release\guilab7.vbproj.GenerateResource.Cache
+C:\Documents and Settings\david_2\My Documents\Visual Studio 2008\Projects\guilab7\guilab7\bin\Release\guilab7.exe
+C:\Documents and Settings\david_2\My Documents\Visual Studio 2008\Projects\guilab7\guilab7\bin\Release\guilab7.pdb
+C:\Documents and Settings\david_2\My Documents\Visual Studio 2008\Projects\guilab7\guilab7\bin\Release\guilab7.xml
+C:\Documents and Settings\david_2\My Documents\Visual Studio 2008\Projects\guilab7\guilab7\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\david_2\My Documents\Visual Studio 2008\Projects\guilab7\guilab7\obj\Release\guilab7.Form1.resources
+C:\Documents and Settings\david_2\My Documents\Visual Studio 2008\Projects\guilab7\guilab7\obj\Release\guilab7.Resources.resources
+C:\Documents and Settings\david_2\My Documents\Visual Studio 2008\Projects\guilab7\guilab7\obj\Release\guilab7.vbproj.GenerateResource.Cache
+C:\Documents and Settings\david_2\My Documents\Visual Studio 2008\Projects\guilab7\guilab7\obj\Release\guilab7.exe
+C:\Documents and Settings\david_2\My Documents\Visual Studio 2008\Projects\guilab7\guilab7\obj\Release\guilab7.xml
+C:\Documents and Settings\david_2\My Documents\Visual Studio 2008\Projects\guilab7\guilab7\obj\Release\guilab7.pdb
+C:\Users\Teresa\Downloads\College\david1\david1\guilab7_working\guilab7\guilab7\obj\Release\guilab7.exe
+C:\Users\Teresa\Downloads\College\david1\david1\guilab7_working\guilab7\guilab7\obj\Release\guilab7.xml
+C:\Users\Teresa\Downloads\College\david1\david1\guilab7_working\guilab7\guilab7\obj\Release\guilab7.pdb

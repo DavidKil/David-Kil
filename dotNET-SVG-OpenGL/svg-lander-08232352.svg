@@ -1,0 +1,249 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+xmlns:xlink="http://www.w3.org/1999/xlink" onload="init();">
+
+
+
+<script>
+<![CDATA[
+
+
+var shipObj, flameObj;
+
+
+function closeWindow() {
+
+window.open('','_parent','');
+
+window.close();
+
+}
+
+
+
+function enableKeys() 
+{
+	try 
+	{
+		// DOM2
+		window.addEventListener("keydown", doKey, true);
+		window.addEventListener("keyup", doKeyUp, true);
+	} 
+	catch (e) 
+	{
+		// MSIE6
+		document.attachEvent("onkeydown", doKey);
+		document.attachEvent("onkeyup", doKeyUp);
+	}
+}
+
+
+function update(obj) 
+{
+	obj.x += obj.dx;
+	obj.y += obj.dy;
+	obj.rot += obj.drot;
+	var passedBounds=false;
+	
+	var passedBounds=false;
+	
+	
+	obj.dy += 0.15;
+
+
+	if (obj.y > 595 && obj.dy <= 5)
+	{
+	
+	 var fRet;
+	fRet = confirm('You win! would you like to play again??');
+		if (fRet)
+		{
+			obj.dy = 0.15;
+			obj.y -= 400;
+			intit();
+		}
+	
+		else
+		{
+			obj.dy = 0;
+			obj.y -= 400;
+			alert("didnt figure out how to close tabs in firefox 3.0 so close it yourself :P");
+
+		}
+	}
+
+	if (obj.x>600) {
+		obj.x -= 650;
+		passedBounds=true;
+	}
+
+
+	else if (obj.x<-50) 
+
+	{
+	obj.x += 650;
+	passedBounds=true;
+	
+	}
+
+
+	if (obj.y>596)
+	{
+	
+	 var fRet;
+	fRet = confirm('You Crashed!!!! would you like to play again??');
+		if (fRet)
+		{
+			obj.dy = 0.15;
+			obj.y -= 400;
+			intit();
+		}
+	
+		else
+		{
+			obj.dy = 0;
+			obj.y -= 400;
+			alert("didnt figure out how to close tabs in firefox 3.0 so close it yourself :P");
+		}
+	}
+	else if (obj.y<-50) 
+	{
+	
+	 var fRet;
+	fRet = confirm('You Crashed!!!!! would you like to play again??');
+		if (fRet)
+		{
+			obj.dy = 0;
+			obj.y -= 400;
+			intit();
+		}
+	
+		else
+		{
+			
+			obj.dy = 0;
+			obj.y -= 400;
+			alert("didnt figure out how to close tabs in firefox 3.0 so close it yourself :P");
+		}
+	}
+	
+	
+	var move="translate("+obj.x+","+(obj.y)+") rotate(" + obj.rot + ") scale(" + obj.scale + ")";
+	obj.setAttributeNS(null,"transform",move);
+	
+	return false;
+
+}
+
+
+
+function init() {
+	enableKeys();
+	startGame();
+}
+
+
+function animate() {
+	setTimeout("animate();", 50);
+	
+	
+	
+	
+	
+	
+	update(shipObj);
+	
+}
+
+
+
+
+function startGame() {
+	
+		
+	shipObj = document.getElementById("ship");
+	shipObj.dx = shipObj.dy = shipObj.drot = shipObj.rot = 0;
+	shipObj.x = shipObj.y = 300;
+	shipObj.scale = 1.0;
+	flameObj = document.getElementById("flame");
+
+	
+	animate();
+}
+
+
+
+
+function doKeyUp(e) 
+{
+	handlekey(e,false);
+}
+
+function doKey(e) 
+{
+	handlekey(e,true);
+}
+
+function handlekey(e,down) 
+
+{
+	var keynum;
+
+	if(window.event) // IE
+	{
+		keynum = e.keyCode; 
+	}
+	else if(e.which) // Netscape/Firefox/Opera
+	{
+		keynum = e.which;
+	}
+
+	if (keynum==37) { // left-arrow
+		if (down)
+			shipObj.drot = -5;
+		else
+			shipObj.drot = 0;
+	}
+	else if (keynum==38) { // up-arrow
+		if (down) {
+			var ang = shipObj.rot*3.1415/180.0; // radians
+			shipObj.dx += Math.sin(ang);
+			shipObj.dy -= Math.cos(ang);
+			flameObj.setAttributeNS(null,"transform","scale(1.0)");
+		}
+		else
+			flameObj.setAttributeNS(null,"transform","scale(0.0)");
+	}
+	else if (keynum==39) { // right-arrow
+		if (down)
+			shipObj.drot = 5;
+		else
+			shipObj.drot = 0;
+	}
+	
+}
+
+
+
+
+
+//]]>
+</script>
+
+
+
+// the game arena
+<rect x="0" y="0" width="600" height="600" fill="#EEEEEE"
+stroke="blue" stroke-width="3" />
+
+
+<polygon stroke="yellow" fill = "yellow" transform="translate(0,600)" stroke-width = "1" points = "0,0 30,-50 70,-25 120,-150 175,0 200,-20, 225,0 235,-100 250,0 280,-50 310,-25 340,-130 375,0 400,-20 450,0 480,-100 500,0 510,-25 565,-110 580,0 590,-20 600,0 0,0" />
+
+// there is only one spaceship so we create it here
+<g id="ship" transform="translate(300,300)"><polygon fill="blue" stroke="red" stroke-width="2" points="0,-5 -5,8 5,8" />
+
+// the flame that is displayed while the spaceship is thrusting: inside the spaceship's co-ordinate system
+<polygon id="flame" transform="scale(0.0)" fill="yellow" stroke="red" stroke-width="1" points="-4,8 -6,20 0,8 -1,23 3,8 7,20 6,8" />
+</g>
+
+
+</svg>

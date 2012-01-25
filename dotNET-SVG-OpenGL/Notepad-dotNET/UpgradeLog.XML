@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="guilab8">
+</Property><Property Name="Solution File" Value="C:\Users\Teresa\Downloads\College\david1\david1\guilab8\guilab8.sln">
+</Property><Property Name="Date" Value="24 January 2012">
+</Property><Property Name="Time" Value="22:48">
+</Property></Properties><Event ErrorLevel="0" Project="guilab8" Source="guilab8\guilab8.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="guilab8" Source="guilab8\guilab8.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="guilab8.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="guilab8.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="guilab8" Source="guilab8\guilab8.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

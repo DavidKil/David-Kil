@@ -1,0 +1,20 @@
+F:\My Documents\Visual Studio 2008\Projects\guilab7\guilab7\bin\Debug\guilab7.exe
+F:\My Documents\Visual Studio 2008\Projects\guilab7\guilab7\bin\Debug\guilab7.pdb
+F:\My Documents\Visual Studio 2008\Projects\guilab7\guilab7\bin\Debug\guilab7.xml
+F:\My Documents\Visual Studio 2008\Projects\guilab7\guilab7\obj\Debug\ResolveAssemblyReference.cache
+F:\My Documents\Visual Studio 2008\Projects\guilab7\guilab7\obj\Debug\guilab7.Form1.resources
+F:\My Documents\Visual Studio 2008\Projects\guilab7\guilab7\obj\Debug\guilab7.Resources.resources
+F:\My Documents\Visual Studio 2008\Projects\guilab7\guilab7\obj\Debug\guilab7.vbproj.GenerateResource.Cache
+F:\My Documents\Visual Studio 2008\Projects\guilab7\guilab7\obj\Debug\guilab7.exe
+F:\My Documents\Visual Studio 2008\Projects\guilab7\guilab7\obj\Debug\guilab7.xml
+F:\My Documents\Visual Studio 2008\Projects\guilab7\guilab7\obj\Debug\guilab7.pdb
+C:\Documents and Settings\david_2\My Documents\Visual Studio 2008\Projects\guilab7\guilab7\obj\Debug\guilab7.exe
+C:\Documents and Settings\david_2\My Documents\Visual Studio 2008\Projects\guilab7\guilab7\obj\Debug\guilab7.xml
+C:\Documents and Settings\david_2\My Documents\Visual Studio 2008\Projects\guilab7\guilab7\obj\Debug\guilab7.pdb
+C:\Documents and Settings\david_2\My Documents\Visual Studio 2008\Projects\guilab7\guilab7\bin\Debug\guilab7.exe
+C:\Documents and Settings\david_2\My Documents\Visual Studio 2008\Projects\guilab7\guilab7\bin\Debug\guilab7.pdb
+C:\Documents and Settings\david_2\My Documents\Visual Studio 2008\Projects\guilab7\guilab7\bin\Debug\guilab7.xml
+C:\Documents and Settings\david_2\My Documents\Visual Studio 2008\Projects\guilab7\guilab7\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\david_2\My Documents\Visual Studio 2008\Projects\guilab7\guilab7\obj\Debug\guilab7.Form1.resources
+C:\Documents and Settings\david_2\My Documents\Visual Studio 2008\Projects\guilab7\guilab7\obj\Debug\guilab7.Resources.resources
+C:\Documents and Settings\david_2\My Documents\Visual Studio 2008\Projects\guilab7\guilab7\obj\Debug\guilab7.vbproj.GenerateResource.Cache

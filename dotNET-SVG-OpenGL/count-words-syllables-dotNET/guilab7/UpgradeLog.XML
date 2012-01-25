@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="guilab7">
+</Property><Property Name="Solution File" Value="C:\Users\Teresa\Downloads\College\david1\david1\guilab7_working\guilab7\guilab7.sln">
+</Property><Property Name="User Options File" Value="C:\Users\Teresa\Downloads\College\david1\david1\guilab7_working\guilab7\guilab7.suo">
+</Property><Property Name="Date" Value="24 January 2012">
+</Property><Property Name="Time" Value="22:43">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="guilab7.sln" Description="File successfully backed up as C:\Users\Teresa\Downloads\College\david1\david1\guilab7_working\guilab7\Backup\guilab7.sln">
+</Event><Event ErrorLevel="0" Project="" Source="guilab7.suo" Description="File successfully backed up as C:\Users\Teresa\Downloads\College\david1\david1\guilab7_working\guilab7\Backup\guilab7.suo">
+</Event><Event ErrorLevel="0" Project="guilab7" Source="guilab7\guilab7.vbproj" Description="Project file successfully backed up as C:\Users\Teresa\Downloads\College\david1\david1\guilab7_working\guilab7\Backup\guilab7\guilab7.vbproj">
+</Event><Event ErrorLevel="0" Project="guilab7" Source="guilab7\guilab7.vbproj.user" Description="Project user file successfully backed up as C:\Users\Teresa\Downloads\College\david1\david1\guilab7_working\guilab7\Backup\guilab7\guilab7.vbproj.user">
+</Event><Event ErrorLevel="1" Project="guilab7" Source="..\..\..\..\..\..\Form1.vb" Description="Backed up project may not build.  Project contains linked file: C:\Users\Teresa\Downloads\College\david1\david1\guilab7_working\guilab7\Backup\guilab7\Form1.vb">
+</Event><Event ErrorLevel="2" Project="guilab7" Source="..\..\..\..\..\..\Form1.vb" Description="Failed to backup file as C:\Users\Teresa\Downloads\College\david1\david1\guilab7_working\guilab7\Backup\guilab7\Form1.vb">
+</Event><Event ErrorLevel="1" Project="guilab7" Source="..\..\..\..\..\..\Form1.Designer.vb" Description="Backed up project may not build.  Project contains linked file: C:\Users\Teresa\Downloads\College\david1\david1\guilab7_working\guilab7\Backup\guilab7\Form1.Designer.vb">
+</Event><Event ErrorLevel="2" Project="guilab7" Source="..\..\..\..\..\..\Form1.Designer.vb" Description="Failed to backup file as C:\Users\Teresa\Downloads\College\david1\david1\guilab7_working\guilab7\Backup\guilab7\Form1.Designer.vb">
+</Event><Event ErrorLevel="0" Project="guilab7" Source="guilab7\My Project\AssemblyInfo.vb" Description="File successfully backed up as C:\Users\Teresa\Downloads\College\david1\david1\guilab7_working\guilab7\Backup\guilab7\My Project\AssemblyInfo.vb">
+</Event><Event ErrorLevel="0" Project="guilab7" Source="guilab7\My Project\Application.Designer.vb" Description="File successfully backed up as C:\Users\Teresa\Downloads\College\david1\david1\guilab7_working\guilab7\Backup\guilab7\My Project\Application.Designer.vb">
+</Event><Event ErrorLevel="0" Project="guilab7" Source="guilab7\My Project\Resources.Designer.vb" Description="File successfully backed up as C:\Users\Teresa\Downloads\College\david1\david1\guilab7_working\guilab7\Backup\guilab7\My Project\Resources.Designer.vb">
+</Event><Event ErrorLevel="0" Project="guilab7" Source="guilab7\My Project\Settings.Designer.vb" Description="File successfully backed up as C:\Users\Teresa\Downloads\College\david1\david1\guilab7_working\guilab7\Backup\guilab7\My Project\Settings.Designer.vb">
+</Event><Event ErrorLevel="0" Project="guilab7" Source="guilab7\My Project\Application.myapp" Description="File successfully backed up as C:\Users\Teresa\Downloads\College\david1\david1\guilab7_working\guilab7\Backup\guilab7\My Project\Application.myapp">
+</Event><Event ErrorLevel="0" Project="guilab7" Source="guilab7\My Project\Settings.settings" Description="File successfully backed up as C:\Users\Teresa\Downloads\College\david1\david1\guilab7_working\guilab7\Backup\guilab7\My Project\Settings.settings">
+</Event><Event ErrorLevel="1" Project="guilab7" Source="..\..\..\..\..\..\Form1.resx" Description="Backed up project may not build.  Project contains linked file: C:\Users\Teresa\Downloads\College\david1\david1\guilab7_working\guilab7\Backup\guilab7\Form1.resx">
+</Event><Event ErrorLevel="2" Project="guilab7" Source="..\..\..\..\..\..\Form1.resx" Description="Failed to backup file as C:\Users\Teresa\Downloads\College\david1\david1\guilab7_working\guilab7\Backup\guilab7\Form1.resx">
+</Event><Event ErrorLevel="0" Project="guilab7" Source="guilab7\My Project\Resources.resx" Description="File successfully backed up as C:\Users\Teresa\Downloads\College\david1\david1\guilab7_working\guilab7\Backup\guilab7\My Project\Resources.resx">
+</Event><Event ErrorLevel="0" Project="guilab7" Source="guilab7\guilab7.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="guilab7" Source="guilab7\guilab7.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="guilab7.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="guilab7.sln" Description="Converted">
+</Event><Event ErrorLevel="1" Project="guilab7" Source="..\..\..\..\..\..\Form1.vb" Description="File not found.  Unable to determine whether the file requires upgrade.">
+</Event><Event ErrorLevel="3" Project="guilab7" Source="..\..\..\..\..\..\Form1.vb" Description="Not Converted">
+</Event><Event ErrorLevel="1" Project="guilab7" Source="..\..\..\..\..\..\Form1.Designer.vb" Description="File not found.  Unable to determine whether the file requires upgrade.">
+</Event><Event ErrorLevel="3" Project="guilab7" Source="..\..\..\..\..\..\Form1.Designer.vb" Description="Not Converted">
+</Event><Event ErrorLevel="0" Project="guilab7" Source="guilab7\guilab7.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

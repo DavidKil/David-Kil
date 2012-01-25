@@ -1,0 +1,34 @@
+F:\My Documents\Visual Studio 2008\Projects\guilab9\guilab9\bin\Debug\guilab9.exe
+F:\My Documents\Visual Studio 2008\Projects\guilab9\guilab9\bin\Debug\guilab9.pdb
+F:\My Documents\Visual Studio 2008\Projects\guilab9\guilab9\bin\Debug\guilab9.xml
+F:\My Documents\Visual Studio 2008\Projects\guilab9\guilab9\obj\Debug\ResolveAssemblyReference.cache
+F:\My Documents\Visual Studio 2008\Projects\guilab9\guilab9\obj\Debug\guilab9.Form1.resources
+F:\My Documents\Visual Studio 2008\Projects\guilab9\guilab9\obj\Debug\guilab9.Resources.resources
+F:\My Documents\Visual Studio 2008\Projects\guilab9\guilab9\obj\Debug\guilab9.vbproj.GenerateResource.Cache
+F:\My Documents\Visual Studio 2008\Projects\guilab9\guilab9\obj\Debug\guilab9.exe
+F:\My Documents\Visual Studio 2008\Projects\guilab9\guilab9\obj\Debug\guilab9.xml
+F:\My Documents\Visual Studio 2008\Projects\guilab9\guilab9\obj\Debug\guilab9.pdb
+C:\Documents and Settings\08232352\Desktop\guilab9\guilab9\obj\Debug\guilab9.exe
+C:\Documents and Settings\08232352\Desktop\guilab9\guilab9\obj\Debug\guilab9.xml
+C:\Documents and Settings\08232352\Desktop\guilab9\guilab9\obj\Debug\guilab9.pdb
+C:\Documents and Settings\08232352\Desktop\guilab9\guilab9\bin\Debug\guilab9.exe
+C:\Documents and Settings\08232352\Desktop\guilab9\guilab9\bin\Debug\guilab9.pdb
+C:\Documents and Settings\08232352\Desktop\guilab9\guilab9\bin\Debug\guilab9.xml
+C:\Documents and Settings\08232352\Desktop\guilab9\guilab9\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\08232352\Desktop\guilab9\guilab9\obj\Debug\guilab9.Form1.resources
+C:\Documents and Settings\08232352\Desktop\guilab9\guilab9\obj\Debug\guilab9.Resources.resources
+C:\Documents and Settings\08232352\Desktop\guilab9\guilab9\obj\Debug\guilab9.vbproj.GenerateResource.Cache
+E:\guilab9\guilab9\obj\Debug\guilab9.exe
+E:\guilab9\guilab9\obj\Debug\guilab9.xml
+E:\guilab9\guilab9\obj\Debug\guilab9.pdb
+E:\guilab9\guilab9\bin\Debug\guilab9.exe
+E:\guilab9\guilab9\bin\Debug\guilab9.pdb
+E:\guilab9\guilab9\bin\Debug\guilab9.xml
+E:\guilab9\guilab9\obj\Debug\ResolveAssemblyReference.cache
+E:\guilab9\guilab9\obj\Debug\guilab9.Resources.resources
+E:\guilab9\guilab9\obj\Debug\guilab9.vbproj.GenerateResource.Cache
+E:\guilab9\guilab9\obj\Debug\guilab9.Drawing.resources
+C:\Users\Teresa\Downloads\College\david1\david1\guilab9\guilab9\obj\Debug\guilab9.exe
+C:\Users\Teresa\Downloads\College\david1\david1\guilab9\guilab9\obj\Debug\guilab9.xml
+C:\Users\Teresa\Downloads\College\david1\david1\guilab9\guilab9\obj\Debug\guilab9.pdb
+C:\Users\Teresa\Downloads\College\david1\david1\guilab9\guilab9\obj\Debug\ResolveAssemblyReference.cache

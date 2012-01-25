@@ -1,0 +1,20 @@
+C:\Documents and Settings\08232352\Local Settings\Application Data\Temporary Projects\guilab8\bin\Debug\guilab8.exe
+C:\Documents and Settings\08232352\Local Settings\Application Data\Temporary Projects\guilab8\bin\Debug\guilab8.pdb
+C:\Documents and Settings\08232352\Local Settings\Application Data\Temporary Projects\guilab8\bin\Debug\guilab8.xml
+C:\Documents and Settings\08232352\Local Settings\Application Data\Temporary Projects\guilab8\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\08232352\Local Settings\Application Data\Temporary Projects\guilab8\obj\Debug\guilab8.Form1.resources
+C:\Documents and Settings\08232352\Local Settings\Application Data\Temporary Projects\guilab8\obj\Debug\guilab8.Resources.resources
+C:\Documents and Settings\08232352\Local Settings\Application Data\Temporary Projects\guilab8\obj\Debug\guilab8.vbproj.GenerateResource.Cache
+C:\Documents and Settings\08232352\Local Settings\Application Data\Temporary Projects\guilab8\obj\Debug\guilab8.exe
+C:\Documents and Settings\08232352\Local Settings\Application Data\Temporary Projects\guilab8\obj\Debug\guilab8.xml
+C:\Documents and Settings\08232352\Local Settings\Application Data\Temporary Projects\guilab8\obj\Debug\guilab8.pdb
+F:\My Documents\Visual Studio 2008\Projects\guilab8\guilab8\obj\Debug\guilab8.exe
+F:\My Documents\Visual Studio 2008\Projects\guilab8\guilab8\obj\Debug\guilab8.xml
+F:\My Documents\Visual Studio 2008\Projects\guilab8\guilab8\obj\Debug\guilab8.pdb
+F:\My Documents\Visual Studio 2008\Projects\guilab8\guilab8\bin\Debug\guilab8.exe
+F:\My Documents\Visual Studio 2008\Projects\guilab8\guilab8\bin\Debug\guilab8.pdb
+F:\My Documents\Visual Studio 2008\Projects\guilab8\guilab8\bin\Debug\guilab8.xml
+F:\My Documents\Visual Studio 2008\Projects\guilab8\guilab8\obj\Debug\ResolveAssemblyReference.cache
+F:\My Documents\Visual Studio 2008\Projects\guilab8\guilab8\obj\Debug\guilab8.Form1.resources
+F:\My Documents\Visual Studio 2008\Projects\guilab8\guilab8\obj\Debug\guilab8.Resources.resources
+F:\My Documents\Visual Studio 2008\Projects\guilab8\guilab8\obj\Debug\guilab8.vbproj.GenerateResource.Cache

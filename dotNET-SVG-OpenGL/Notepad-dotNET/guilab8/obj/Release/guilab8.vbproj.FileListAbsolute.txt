@@ -1,0 +1,36 @@
+C:\Documents and Settings\08232352\Local Settings\Application Data\Temporary Projects\guilab8\bin\Release\guilab8.exe
+C:\Documents and Settings\08232352\Local Settings\Application Data\Temporary Projects\guilab8\bin\Release\guilab8.pdb
+C:\Documents and Settings\08232352\Local Settings\Application Data\Temporary Projects\guilab8\bin\Release\guilab8.xml
+C:\Documents and Settings\08232352\Local Settings\Application Data\Temporary Projects\guilab8\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\08232352\Local Settings\Application Data\Temporary Projects\guilab8\obj\Release\guilab8.Form1.resources
+C:\Documents and Settings\08232352\Local Settings\Application Data\Temporary Projects\guilab8\obj\Release\guilab8.Resources.resources
+C:\Documents and Settings\08232352\Local Settings\Application Data\Temporary Projects\guilab8\obj\Release\guilab8.vbproj.GenerateResource.Cache
+C:\Documents and Settings\08232352\Local Settings\Application Data\Temporary Projects\guilab8\obj\Release\guilab8.exe
+C:\Documents and Settings\08232352\Local Settings\Application Data\Temporary Projects\guilab8\obj\Release\guilab8.xml
+C:\Documents and Settings\08232352\Local Settings\Application Data\Temporary Projects\guilab8\obj\Release\guilab8.pdb
+F:\My Documents\Visual Studio 2008\Projects\guilab8\guilab8\bin\Release\guilab8.exe
+F:\My Documents\Visual Studio 2008\Projects\guilab8\guilab8\bin\Release\guilab8.pdb
+F:\My Documents\Visual Studio 2008\Projects\guilab8\guilab8\bin\Release\guilab8.xml
+F:\My Documents\Visual Studio 2008\Projects\guilab8\guilab8\obj\Release\ResolveAssemblyReference.cache
+F:\My Documents\Visual Studio 2008\Projects\guilab8\guilab8\obj\Release\guilab8.Form1.resources
+F:\My Documents\Visual Studio 2008\Projects\guilab8\guilab8\obj\Release\guilab8.Resources.resources
+F:\My Documents\Visual Studio 2008\Projects\guilab8\guilab8\obj\Release\guilab8.vbproj.GenerateResource.Cache
+F:\My Documents\Visual Studio 2008\Projects\guilab8\guilab8\obj\Release\guilab8.exe
+F:\My Documents\Visual Studio 2008\Projects\guilab8\guilab8\obj\Release\guilab8.xml
+F:\My Documents\Visual Studio 2008\Projects\guilab8\guilab8\obj\Release\guilab8.pdb
+C:\Documents and Settings\David\My Documents\Visual Studio 2008\Projects\guilab8\guilab8\obj\Release\guilab8.exe
+C:\Documents and Settings\David\My Documents\Visual Studio 2008\Projects\guilab8\guilab8\obj\Release\guilab8.xml
+C:\Documents and Settings\David\My Documents\Visual Studio 2008\Projects\guilab8\guilab8\obj\Release\guilab8.pdb
+C:\Documents and Settings\David\My Documents\Visual Studio 2008\Projects\guilab8\guilab8\bin\Release\guilab8.exe
+C:\Documents and Settings\David\My Documents\Visual Studio 2008\Projects\guilab8\guilab8\bin\Release\guilab8.pdb
+C:\Documents and Settings\David\My Documents\Visual Studio 2008\Projects\guilab8\guilab8\bin\Release\guilab8.xml
+C:\Documents and Settings\David\My Documents\Visual Studio 2008\Projects\guilab8\guilab8\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\David\My Documents\Visual Studio 2008\Projects\guilab8\guilab8\obj\Release\guilab8.Form1.resources
+C:\Documents and Settings\David\My Documents\Visual Studio 2008\Projects\guilab8\guilab8\obj\Release\guilab8.Resources.resources
+C:\Documents and Settings\David\My Documents\Visual Studio 2008\Projects\guilab8\guilab8\obj\Release\guilab8.vbproj.GenerateResource.Cache
+E:\guilab8\guilab8\obj\Release\guilab8.exe
+E:\guilab8\guilab8\obj\Release\guilab8.xml
+E:\guilab8\guilab8\obj\Release\guilab8.pdb
+C:\Users\Teresa\Downloads\College\david1\david1\guilab8\guilab8\obj\Release\guilab8.exe
+C:\Users\Teresa\Downloads\College\david1\david1\guilab8\guilab8\obj\Release\guilab8.xml
+C:\Users\Teresa\Downloads\College\david1\david1\guilab8\guilab8\obj\Release\guilab8.pdb
